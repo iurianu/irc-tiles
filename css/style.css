@@ -1,0 +1,139 @@
+/* GENERAL */
+.center {display:block; margin:0 auto}
+.left {float:left; margin-right:10px}
+.right {float:right }
+.alignright {text-align:right; margin-left: 10px;}
+.alpha.alignright {margin-left: 0;}
+.alignleft {text-align:left}
+.aligncenter {text-align:center}
+
+
+body {
+	background-color: #f5f5f5;
+}
+p, ul {
+	margin-top: 0;
+}
+.spatiuVert20 {
+	height: 20px;
+	display: block;
+}
+h1, h2, h3, h4, h5, h6, a {
+    font-weight: normal;
+    color: #8F0000;
+}
+h1, h2, h3, h4, h5, h6, nav#mainMenu ul li a, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    font-family: 'PT Sans Narrow',sans-serif;
+    text-decoration: none;
+}
+h1 {
+	font-size:40px;
+}
+h2 {
+	font-size:22px;
+	margin: 0;
+}
+h3 {
+	font-size:24px;
+}
+h4 {
+	font-size: 46px;
+}
+.noBullets {
+	list-style: none;
+	padding-left: 0;
+}
+ul.noBullets li {
+	float: left;
+}
+.shadow {
+	-moz-box-shadow:    0 0 5px 1px #aaa;
+	-webkit-box-shadow: 0 0 5px 1px #aaa;
+	box-shadow:         0 0 5px 1px #aaa;
+}
+ul#socialIcons li {
+    margin-right: 20px;
+}
+ul#socialIcons li:last-child {
+    margin: 0
+}
+/* MENIU */
+#main {
+	-moz-border-radius-topleft: 20px;
+	-webkit-border-top-left-radius: 20px;
+	border-top-left-radius: 20px; /* future proofing */
+	-khtml-border-top-left-radius: 20px; /* for old Konqueror browsers */
+	
+	-moz-border-radius-topright: 20px;
+	-webkit-border-top-right-radius: 20px;
+	border-top-right-radius: 20px; /* future proofing */
+	-khtml-border-top-right-radius: 20px; /* for old Konqueror browsers */
+	
+	background: #fff;
+	
+	margin-top: 20px;
+}
+#mainMenu ul {
+	list-style: none;
+	padding-left: 0;
+}
+#mainMenu ul li {
+	float: left;
+	margin-right: 15px;
+}
+nav#mainMenu {
+    width: 960px; margin: 0; 
+}
+
+nav#mainMenu ul {
+    font-size: 13px;
+    list-style: none outside none;
+    margin: 0;
+    padding:0 20px;
+}
+nav#mainMenu ul li {
+    font-size: 16px;
+    font-weight: 700;
+    margin-right: 40px;
+    text-transform: uppercase;
+}
+nav#mainMenu ul li a {
+    color: #2E2E2E;
+    line-height: 2.7em;
+    text-decoration: none;
+}
+nav#mainMenu ul li a:hover {
+    color: #BF0000;
+}
+#slider {
+    margin-bottom:20px    
+}
+/* SIDE BAR */
+#sidebarTestimonials {
+    background: url("../images/testimonial-quote-small.png") no-repeat scroll left top transparent;
+    font-size: 13px;
+    padding: 6px 0 20px 30px;
+}
+
+#sidebarTestimonials p {
+    font-family: Georgia;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+#latestJobs ul li {
+    margin:0 10px 10px 0;
+}
+
+/* FOOTER */
+footer {
+    background-color: white;
+    width: 100%;
+    display: inline-block;
+}
+footer div {
+    padding:20px
+}
+.banner { position: relative; overflow: auto; }
+    .banner li { list-style: none; }
+        .banner ul li { float: left; }
+		.banner ul { padding: 0; }
