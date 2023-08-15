@@ -1,11 +1,11 @@
+# Landing Page created with HTML4 and 960GS Framework
 
-### Landing Page created with HTML4 and 960GS Framework
-###
+## Technologies used
 
-### Technologies used:
-###
-### HTML4/CSS2
-### 960GS Framework
-### jQuery
+* HTML4/CSS2
+* 960GS Framework
+* jQuery
 
-### See the page online [here](http://iurianu.phpnet.us/irc/index.html)
+<hr />
+
+> See the page online [here](https://cdn.iurianu.rocks/isc-tiles/)
