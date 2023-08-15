@@ -8,4 +8,4 @@
 
 <hr />
 
-> See the page online [here](https://cdn.iurianu.rocks/isc-tiles/)
+> See the page online [here](https://cdn.iurianu.rocks/irc-tiles/)
