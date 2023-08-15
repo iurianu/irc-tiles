@@ -1,4 +1,4 @@
-# Landing Page created with HTML4 and 960GS Framework
+# Landing Page | 960GS Framework
 
 ## Technologies used
 
