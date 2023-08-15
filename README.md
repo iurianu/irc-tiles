@@ -1,4 +1,4 @@
-# Landing Page | 960GS Framework
+# HomePage Code | 960GS Framework
 
 ## Technologies used
 
